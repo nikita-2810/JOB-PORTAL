@@ -1,0 +1,6 @@
+- Add "Forgot Password?" link below password field in Login.jsx
+- Add "Forgot Password?" link below password field in Signup.jsx
+- Implement password validation in Signup.jsx: exactly 8 characters, at least one number, one special character
+- Add state for password error in Signup.jsx
+- Validate password on submit and show error via toast
+- Test the changes
