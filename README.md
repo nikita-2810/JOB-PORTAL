@@ -1,7 +1,1 @@
-Job Portal
-Full-stack web application using MERN stack         Aug 2025– Dec 2025
--Developed a full-stack Job Portal application enabling recruiters to post jobs and candidates to apply.
-– Implemented secure authentication and authorization using JWT and bcrypt with role-based dashboards.
-– Designed and built a responsive front-end using React.js and Tailwind CSS; managed state with Redux.
-– Integrated REST APIs using Axios for seamless data flow between frontend and backend.
-– Technologies Used: MERN Stack (MongoDB, Express.js, React.js, Node.js).
+Developed a full-stack Job Portal application using the MERN stack (MongoDB, Express.js, React.js, and Node.js) that enables recruiters to post jobs and candidates to apply seamlessly. Implemented secure authentication and authorization using JWT and bcrypt with role-based dashboards for recruiters and users. Built a responsive and user-friendly frontend using React.js, Tailwind CSS, and Redux for state management, while integrating REST APIs with Axios to ensure smooth communication between frontend and backend systems.
